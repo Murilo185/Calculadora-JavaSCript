@@ -1,1 +1,1 @@
-# Calculadora-JavaSCript
+# Calculadora-JavaScript
